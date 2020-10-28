@@ -1,2 +1,2 @@
 # firstDoIt
-初体验
+hello world

@@ -1,2 +1,2 @@
 # firstDoIt
-初体验
+GITHUB 第一个项目
